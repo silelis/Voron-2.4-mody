@@ -1,0 +1,11 @@
+usb-Klipper_stm32h723xx_2F0015000351313433343333-if00
+
+
+
+biqu@bigtreetech-cb1:~/klipper$ python3 lib/canboot/flash_can.py -q
+Resetting all bootloader node IDs...
+Checking for canboot nodes...
+Detected UUID: 6983593a617d, Application: Klipper
+Query Complete
+
+Detected CAN UUID: 6983593a617d, Application: Klipper
