@@ -9,3 +9,9 @@ Detected UUID: 6983593a617d, Application: Klipper
 Query Complete
 
 Detected CAN UUID: 6983593a617d, Application: Klipper
+
+
+Detected UUID: 6983593a617d, Application: Klipper	CB1
+Detected UUID: 7e704741dfc5, Application: Katapult	EBB
+
+
